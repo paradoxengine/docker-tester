@@ -1,0 +1,145 @@
+asher/remote_syslog,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+asher/remote_syslog,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+asher/remote_syslog,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+asher/remote_syslog,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+asher/remote_syslog,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+tutum/mysql,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+tutum/mysql,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+tutum/mysql,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+tutum/mysql,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+tutum/mysql,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+tutum/ubuntu-precise,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+tutum/ubuntu-precise,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+tutum/ubuntu-precise,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+tutum/ubuntu-precise,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+tutum/ubuntu-precise,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+tutum/influxdb,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+tutum/influxdb,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+tutum/influxdb,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+tutum/influxdb,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+tutum/influxdb,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+orchardup/jenkins,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+orchardup/jenkins,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+orchardup/jenkins,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+orchardup/jenkins,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+orchardup/jenkins,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+bowery/php,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+bowery/php,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+bowery/php,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+bowery/php,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+bowery/php,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+bowery/ruby,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+bowery/ruby,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+bowery/ruby,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+bowery/ruby,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+bowery/ruby,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+cmfatih/phantomjs,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+cmfatih/phantomjs,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+cmfatih/phantomjs,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+cmfatih/phantomjs,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+cmfatih/phantomjs,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+vish/k8s_grafana,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+vish/k8s_grafana,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+vish/k8s_grafana,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+vish/k8s_grafana,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+vish/k8s_grafana,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+bowery/mysql,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+bowery/mysql,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+bowery/mysql,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+bowery/mysql,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+bowery/mysql,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+jwilder/nginx-proxy,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+jwilder/nginx-proxy,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+jwilder/nginx-proxy,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+jwilder/nginx-proxy,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+nickgs/drupal8,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+nickgs/drupal8,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+nickgs/drupal8,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+nickgs/drupal8,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+nickgs/drupal8,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+sylvainlasnier/memcached,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+sylvainlasnier/memcached,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+sylvainlasnier/memcached,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+sylvainlasnier/memcached,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+tutum/wordpress,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+tutum/wordpress,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+tutum/wordpress,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+tutum/wordpress,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+tutum/wordpress,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+maxexcloo/java,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+maxexcloo/java,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+maxexcloo/java,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+maxexcloo/java,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+maxexcloo/java,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+centurylink/mysql,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+centurylink/mysql,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+centurylink/mysql,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+centurylink/mysql,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+centurylink/mysql,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+jonsharratt/rails,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+jonsharratt/rails,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+jonsharratt/rails,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+jonsharratt/rails,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+jonsharratt/rails,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+itzg/minecraft-server,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+itzg/minecraft-server,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+itzg/minecraft-server,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+itzg/minecraft-server,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+itzg/minecraft-server,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+libmesos/ubuntu,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+libmesos/ubuntu,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+libmesos/ubuntu,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+libmesos/ubuntu,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+libmesos/ubuntu,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+hoshinotsuyoshi/dind-jenkins,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+hoshinotsuyoshi/dind-jenkins,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+hoshinotsuyoshi/dind-jenkins,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+hoshinotsuyoshi/dind-jenkins,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+hoshinotsuyoshi/dind-jenkins,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+paintedfox/postgresql,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+paintedfox/postgresql,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+paintedfox/postgresql,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+paintedfox/postgresql,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+paintedfox/postgresql,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+samsaffron/discourse,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+samsaffron/discourse,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+samsaffron/discourse,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+samsaffron/discourse,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+samsaffron/discourse,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+jamesdbloom/docker-java7-maven,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+jamesdbloom/docker-java7-maven,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+jamesdbloom/docker-java7-maven,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+jamesdbloom/docker-java7-maven,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+jamesdbloom/docker-java7-maven,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+mnagaku/dokuwiki-ja,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+mnagaku/dokuwiki-ja,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+mnagaku/dokuwiki-ja,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+dharmamike/pmx-rails,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+dharmamike/pmx-rails,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+dharmamike/pmx-rails,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+dharmamike/pmx-rails,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+dharmamike/pmx-rails,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+coreos/elb-presence,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+coreos/elb-presence,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+coreos/elb-presence,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+coreos/elb-presence,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+coreos/elb-presence,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+brendanburns/redis-slave,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+brendanburns/redis-slave,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+brendanburns/redis-slave,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+brendanburns/redis-slave,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+brendanburns/redis-slave,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+samalba/docker-registry,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+samalba/docker-registry,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+samalba/docker-registry,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+samalba/docker-registry,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+samalba/docker-registry,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+bowery/python,[91mVulnerable to CVE-2014-6271 (original shellshock)[39m
+bowery/python,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+bowery/python,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+bowery/python,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+bowery/python,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
+centurylink/panamax-ui,[91mVulnerable to CVE-2014-7169 (taviso bug)[39m
+centurylink/panamax-ui,[91mVulnerable to CVE-2014-7186 (redir_stack bug)[39m
+centurylink/panamax-ui,[91mVulnerable to CVE-2014-6277 (lcamtuf bug #1)[39m
+centurylink/panamax-ui,[91mVulnerable to CVE-2014-6278 (lcamtuf bug #2)[39m
